@@ -1,7 +1,7 @@
 <script>
   export default {
     async asyncData({ $content, params }) {
-      const ciudad = await $content('edificios', params.slug).fetch()
+      const ciudad = await $content('ciudades', params.slug).fetch()
       return { ciudad }
     }
   }
@@ -15,9 +15,10 @@
      </div>
      <div class="six columns">
        <h4>{{ciudad.name}}</h4>
-	   by {{ciudad.author}}</br>
-	   User Rating: {{ciudad.userRating}}; Year: {{ciudad.year}};</br>
-	   Price: {{ciudad.price}}; Genere: {{ciudad.genre}}
+       Poblacion: {{ciudad.poblacion}}</br>
+       Clima: {{ciudad.clima}}</br>
+       Economia: {{ciudad.economia}}</br>
+       Infraestructura: {{ciudad.infraestructura}}</br> 
 	 </div>
 	 <div class="two columns"></div>
    </div>

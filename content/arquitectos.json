@@ -1,24 +1,20 @@
 [
     {
       "num": 1,
-      "name": "10-Day Green Smoothie Cleanse",
-      "author": "JJ Smith",
-      "userRating": 4.7,
-      "reviews": 17350,
-      "price": 8,
-      "year": 2016,
-      "genre": "Non Fiction",
-      "slug": "book1"
+      "name": "Adrian Smith (Burj Khalifa, Central Park Tower)",
+      "nacionalidad": "Estadounidense",
+      "estilo": "Arquitectura moderna y sostenible, especialmente rascacielos",
+      "obras_notables": "Burj Khalifa, Jeddah Tower, Central Park Tower.",
+      "distincion": "Es conocido por diseñar algunos de los edificios más altos del mundo",
+      "slug": "arquitecto1"
     },
     {
       "num": 2,
-      "name": "11/22/63: A Novel",
-      "author": "Stephen King",
-      "userRating": 4.6,
-      "reviews": 2052,
-      "price": 22,
-      "year": 2011,
-      "genre": "Fiction",
-      "slug": "book2"
+      "name": "Fender Katsalidis",
+      "nacionalidad": "Australiana",
+      "estilo": "Diseño innovador, funcional y de gran escala.",
+      "obras_notables": "Eureka Tower, Merdeka 118.",
+      "distincion": "Se especializa en edificios altos y en proyectos de urbanización de gran escala",
+      "slug": "arquitecto2"
     }
 ]  

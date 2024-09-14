@@ -15,9 +15,11 @@
      </div>
      <div class="six columns">
        <h4>{{edificio.name}}</h4>
-	   by {{edificio.author}}</br>
-	   User Rating: {{edificio.userRating}}; Year: {{edificio.year}};</br>
-	   Price: {{edificio.price}}; Genere: {{edificio.genre}}
+	   Arquitecto: {{edificio.arquitecto}}</br>
+	   Ubicacion: {{edificio.ubicacion}}</br>
+     Annio Finalizacion: {{edificio.annnio_final}}</br>
+	   Capacidad: {{edificio.capacidad}}</br> 
+     usos: {{edificio.uso}}
 	 </div>
 	 <div class="two columns"></div>
    </div>

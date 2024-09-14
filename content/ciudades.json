@@ -1,24 +1,20 @@
 [
     {
       "num": 1,
-      "name": "10-Day Green Smoothie Cleanse",
-      "author": "JJ Smith",
-      "userRating": 4.7,
-      "reviews": 17350,
-      "price": 8,
-      "year": 2016,
-      "genre": "Non Fiction",
-      "slug": "book1"
+      "name": "Dubái, Emiratos Árabes Unidos",
+      "poblacion": "Aproximadamente 3.5 millones",
+      "clima": "Desértico, con veranos extremadamente calurosos e inviernos suaves.",
+      "economia": "Fuerte en turismo, comercio, finanzas e inmobiliaria.",
+      "infraestructura": " Es conocida por su arquitectura moderna y sus rascacielos, como el Burj Khalifa.",
+      "slug": "ciudad1"
     },
     {
       "num": 2,
-      "name": "11/22/63: A Novel",
-      "author": "Stephen King",
-      "userRating": 4.6,
-      "reviews": 2052,
-      "price": 22,
-      "year": 2011,
-      "genre": "Fiction",
-      "slug": "book2"
+      "name": "Kuala Lumpur, Malasia",
+      "poblacion": "Aproximadamente 1.8 millones",
+      "clima": " Tropical monzónico, con lluvias durante todo el año",
+      "economia": "Importante centro financiero, bancario y comercial del sudeste asiático.",
+      "infraestructura": "Notable por sus rascacielos, incluido el The Exchange 106 y Merdeka 118.",
+      "slug": "ciudad2"
     }
 ]  

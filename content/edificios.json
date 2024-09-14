@@ -2,67 +2,21 @@
   {
     "num": 1,
     "name": "Burk Khalifa",
-    "author": "JJ Smith",
-    "userRating": 4.7,
-    "reviews": 17350,
-    "price": 8,
-    "year": 2016,
-    "genre": "Non Fiction",
-    "slug": "book1"
+    "ubicacion" : "Dubái, Emiratos Árabes Unidos",
+    "arquitecto": " Adrian Smith (Skidmore, Owings & Merrill)",
+    "annnio_final": "2010",
+    "capacidad" : "163 pisos",
+    "uso": "Residencias, hotel, restaurantes y observatorio",
+    "slug": "edificio1"
   },
-  {
+    {
     "num": 2,
     "name": "Merdeka 118",
-    "author": "Stephen King",
-    "userRating": 4.6,
-    "reviews": 2052,
-    "price": 22,
-    "year": 2011,
-    "genre": "Fiction",
-    "slug": "book2"
-  },
-  {
-    "num": 3,
-    "name": "Shanghai Tower",
-    "author": "Stephen King",
-    "userRating": 4.6,
-    "reviews": 2052,
-    "price": 22,
-    "year": 2011,
-    "genre": "Fiction",
-    "slug": "book2"
-  },
-  {
-    "num": 4,
-    "name": "Abraj Al Bai",
-    "author": "Stephen King",
-    "userRating": 4.6,
-    "reviews": 2052,
-    "price": 22,
-    "year": 2011,
-    "genre": "Fiction",
-    "slug": "book2"
-  },
-  {
-    "num": 5,
-    "name": "Ping An Finance Centre",
-    "author": "Stephen King",
-    "userRating": 4.6,
-    "reviews": 2052,
-    "price": 22,
-    "year": 2011,
-    "genre": "Fiction",
-    "slug": "book2"
-  },
-  {
-    "num": 6,
-    "name": "Lotte World Tower",
-    "author": "Stephen King",
-    "userRating": 4.6,
-    "reviews": 2052,
-    "price": 22,
-    "year": 2011,
-    "genre": "Fiction",
-    "slug": "book2"
-  }
+    "ubicacion" : "Kuala Lumpur, Malasia",
+    "arquitecto": "Fender Katsalidis",
+    "annnio_final": "2022",
+    "capacidad" : "118 pisos",
+    "uso": "Oficinas, hotel, centro comercial y plataforma de observación.",
+    "slug": "edificio2"
+    }
 ]  
