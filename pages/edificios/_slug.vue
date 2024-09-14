@@ -15,11 +15,11 @@
      </div>
      <div class="six columns">
        <h4>{{edificio.name}}</h4>
-	   Arquitecto: {{edificio.arquitecto}}</br>
-     Altura: {{edificio.altura}}</br>
-	   Ubicacion: {{edificio.ubicacion}}</br>
-     Annio Finalizacion: {{edificio.annnio_final}}</br>
-	   Capacidad: {{edificio.capacidad}}</br> 
+       <b>Arquitecto:</b> {{edificio.arquitecto}}</br>
+       <b>Altura:</b> {{edificio.altura}}</br>
+       <b>Ubicacion:</b> {{edificio.ubicacion}}</br>
+       <b>Annio Finalizacion:</b> {{edificio.annnio_final}}</br>
+       <b>Capacidad:</b> {{edificio.capacidad}}</br> 
      usos: {{edificio.uso}}
 	 </div>
 	 <div class="two columns"></div>

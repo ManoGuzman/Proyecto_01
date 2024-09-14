@@ -15,10 +15,10 @@
      </div>
      <div class="six columns">
        <h4>{{ciudad.name}}</h4>
-       Poblacion: {{ciudad.poblacion}}</br>
-       Clima: {{ciudad.clima}}</br>
-       Economia: {{ciudad.economia}}</br>
-       Infraestructura: {{ciudad.infraestructura}}</br> 
+       <b>Poblacion:</b> {{ciudad.poblacion}}</br>
+       <b>Clima:</b> {{ciudad.clima}}</br>
+       <b>Economia:</b> {{ciudad.economia}}</br>
+      <b>Infraestructura:</b> {{ciudad.infraestructura}}
 	 </div>
 	 <div class="two columns"></div>
    </div>

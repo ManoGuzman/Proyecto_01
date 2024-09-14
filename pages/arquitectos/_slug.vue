@@ -15,10 +15,10 @@
      </div>
      <div class="six columns">
        <h4>{{arquitecto.name}}</h4>
-      Nacionalidad: {{arquitecto.nacionalidad}}</br>
-      Estilo: {{arquitecto.estilo}}</br>
-      Obras Notables: {{arquitecto.obras_notables}}</br>
-      Distincion: {{arquitecto.distincion}}
+      <b>Nacionalidad:</b> {{arquitecto.nacionalidad}}</br>
+      <b>Estilo:</b> {{arquitecto.estilo}}</br>
+      <b>Obras Notables:</b> {{arquitecto.obras_notables}}</br>
+      <b>Distincion:</b> {{arquitecto.distincion}}
 	 </div>
 	 <div class="two columns"></div>
    </div>
