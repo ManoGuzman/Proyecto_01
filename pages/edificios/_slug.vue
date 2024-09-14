@@ -16,6 +16,7 @@
      <div class="six columns">
        <h4>{{edificio.name}}</h4>
 	   Arquitecto: {{edificio.arquitecto}}</br>
+     Altura: {{edificio.altura}}</br>
 	   Ubicacion: {{edificio.ubicacion}}</br>
      Annio Finalizacion: {{edificio.annnio_final}}</br>
 	   Capacidad: {{edificio.capacidad}}</br> 

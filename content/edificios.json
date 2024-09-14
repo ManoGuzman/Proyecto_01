@@ -3,20 +3,22 @@
     "num": 1,
     "name": "Burk Khalifa",
     "ubicacion" : "Dubái, Emiratos Árabes Unidos",
+    "altura" : "828 m",
     "arquitecto": " Adrian Smith (Skidmore, Owings & Merrill)",
     "annnio_final": "2010",
     "capacidad" : "163 pisos",
     "uso": "Residencias, hotel, restaurantes y observatorio",
     "slug": "edificio1"
   },
-    {
+  {
     "num": 2,
     "name": "Merdeka 118",
     "ubicacion" : "Kuala Lumpur, Malasia",
+    "altura" : "678.9 m",
     "arquitecto": "Fender Katsalidis",
     "annnio_final": "2022",
     "capacidad" : "118 pisos",
     "uso": "Oficinas, hotel, centro comercial y plataforma de observación.",
     "slug": "edificio2"
-    }
+  }
 ]  
