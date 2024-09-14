@@ -16,5 +16,23 @@
       "obras_notables": "Eureka Tower, Merdeka 118.",
       "distincion": "Se especializa en edificios altos y en proyectos de urbanización de gran escala",
       "slug": "arquitecto2"
+    },
+    {
+      "num": 3,
+      "name": "Gensler",
+      "nacionalidad": "Estadounidense (firma global).",
+      "estilo": "Arquitectura moderna y sostenible, con énfasis en eficiencia energética.",
+      "obras_notables": "Shanghai Tower, Incheon Airport, The Tower at PNC Plaza.",
+      "distincion": "Es una de las firmas de arquitectura más grandes del mundo.",
+      "slug": "arquitecto3"
+    },
+    {
+      "num": 4,
+      "name": "SL Rasch GmbH",
+      "nacionalidad": "Alemana",
+      "estilo": "Especialización en edificios religiosos y rascacielos.",
+      "obras_notables": "Abraj Al Bait, Masjid Al Haram expansion.",
+      "distincion": "Expertos en diseño estructural y tecnológico en condiciones extremas.",
+      "slug": "arquitecto4"
     }
 ]  

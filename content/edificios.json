@@ -20,5 +20,49 @@
     "capacidad" : "118 pisos",
     "uso": "Oficinas, hotel, centro comercial y plataforma de observación.",
     "slug": "edificio2"
+  },
+  {
+    "num": 3,
+    "name": "Shanghai Tower",
+    "ubicacion" : "Shanghái, China",
+    "altura" : "632 m",
+    "arquitecto": "Gensler",
+    "annnio_final": "2015",
+    "capacidad" : "128 pisos",
+    "uso": "Oficinas, hotel, tiendas, observatorio y entretenimiento.",
+    "slug": "edificio3"
+  },
+  {
+    "num": 4,
+    "name": "Abraj Al Bait",
+    "ubicacion" : "La Meca, Arabia Saudita",
+    "altura" : "601 m",
+    "arquitecto": "SL Rasch GmbH y Dar Al-Handasah",
+    "annnio_final": "2012",
+    "capacidad" : "115 pisos",
+    "uso": "Oficinas, hotel, centro comercial y observatorio.",
+    "slug": "edificio4"
+  },
+  {
+    "num": 5,
+    "name": "Ping An Finance Centre",
+    "ubicacion" : "Shenzhen, China",
+    "altura" : "599 m",
+    "arquitecto": "Kohn Pedersen Fox Associates",
+    "annnio_final": "2017",
+    "capacidad" : "115 pisos",
+    "uso": "Oficinas, hotel, centro comercial y observatorio.",
+    "slug": "edificio5"
+  },
+  {
+    "num": 6,
+    "name": "Lotte World Tower",
+    "ubicacion" : "Seúl, Corea del Sur",
+    "altura" : "555 m",
+    "arquitecto": "Kohn Pedersen Fox Associates",
+    "annnio_final": "2016",
+    "capacidad" : "123 pisos",
+    "uso": "Oficinas, hotel, apartamentos, centro comercial y observatorio..",
+    "slug": "edificio6"
   }
 ]  

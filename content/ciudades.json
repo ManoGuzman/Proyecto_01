@@ -12,9 +12,45 @@
       "num": 2,
       "name": "Kuala Lumpur, Malasia",
       "poblacion": "Aproximadamente 1.8 millones",
-      "clima": " Tropical monzónico, con lluvias durante todo el año",
+      "clima": "Tropical monzónico, con lluvias durante todo el año",
       "economia": "Importante centro financiero, bancario y comercial del sudeste asiático.",
       "infraestructura": "Notable por sus rascacielos, incluido el The Exchange 106 y Merdeka 118.",
       "slug": "ciudad2"
+    },
+    {
+      "num": 3,
+      "name": "Shanghái, China",
+      "poblacion": "Aproximadamente 26 milloness",
+      "clima": "Subtropical húmedo, con inviernos fríos y veranos calurosos y húmedos.",
+      "economia": "Es uno de los principales centros financieros y comerciales del mundo.",
+      "infraestructura": "Cuenta con una gran cantidad de rascacielos modernos, incluido el Shanghai Tower.",
+      "slug": "ciudad3"
+    },
+    {
+      "num": 4,
+      "name": "La Meca, Arabia Saudit",
+      "poblacion": "Aproximadamente 1.5 millones",
+      "clima": "Desértico, con temperaturas muy altas en verano y escasas precipitacione",
+      "economia": "Principalmente basada en el turismo religioso, con millones de peregrinos cada año..",
+      "infraestructura": "Se ha desarrollado significativamente para recibir a millones de peregrinos, con complejos como Abraj Al Bait.",
+      "slug": "ciudad4"
+    },
+    {
+      "num": 5,
+      "name": "Shenzhen, China",
+      "poblacion": "Aproximadamente 17.6 millones",
+      "clima": "Subtropical húmedo, con veranos calurosos y húmedos",
+      "economia": "Es una de las ciudades más ricas y tecnológicamente avanzadas de China.",
+      "infraestructura": "Famosa por su rápido crecimiento y gran cantidad de rascacielos. Como se destaca el Ping An Finance Centre.",
+      "slug": "ciudad5"
+    },
+    {
+      "num": 6,
+      "name": "Seúl, Corea del Sur",
+      "poblacion": "Aproximadamente 9.7 millones",
+      "clima": "Continental húmedo, con inviernos fríos y veranos calurosos.",
+      "economia": "Principal motor económico de Corea del Sur, con fuerte énfasis en tecnología y finanzas",
+      "infraestructura": "Seúl tiene una mezcla de arquitectura moderna y templos históricos, con rascacielos como Lotte World Tower.",
+      "slug": "ciudad6"
     }
 ]  
