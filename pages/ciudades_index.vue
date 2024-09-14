@@ -1,9 +1,9 @@
 <script>
   export default {
     async asyncData({ $content }) {
-      const books = await $content('ciudades').fetch()
+      const ciudades = await $content('ciudades').fetch()
       return {
-        books
+        ciudades
       }
     }
   }
@@ -15,8 +15,8 @@
    <h3 style="margin-top: 15px">Información de Ciudades</h3>
    <p>Esta sección presenta la información sobre las ciudades</p>
    <ul>
-     <li v-for="book in books" :key="book.slug">
-       <NuxtLink :to="{ name: 'books-slug', params: { slug: book.slug } }">{{book.name}}</NuxtLink>
+     <li v-for="ciudad in ciudades" :key="ciudades.slug">
+       <NuxtLink :to="{ name: 'ciudades-slug', params: { slug: ciudad.slug } }">{{ciudad.name}}</NuxtLink>
      </li>
    </ul>
    <FooterView />

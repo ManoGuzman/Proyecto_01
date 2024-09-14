@@ -1,8 +1,8 @@
 <script>
   export default {
     async asyncData({ $content, params }) {
-      const book = await $content('edificios', params.slug).fetch()
-      return { book }
+      const arquitecto = await $content('edificios', params.slug).fetch()
+      return { arquitecto }
     }
   }
 </script>
@@ -14,10 +14,10 @@
      <div class="three columns">
      </div>
      <div class="six columns">
-       <h4>{{book.name}}</h4>
-	   by {{book.author}}</br>
-	   User Rating: {{book.userRating}}; Year: {{book.year}};</br>
-	   Price: {{book.price}}; Genere: {{book.genre}}
+       <h4>{{arquitecto.name}}</h4>
+	   by {{arquitecto.author}}</br>
+	   User Rating: {{arquitecto.userRating}}; Year: {{arquitecto.year}};</br>
+	   Price: {{arquitecto.price}}; Genere: {{arquitecto.genre}}
 	 </div>
 	 <div class="two columns"></div>
    </div>

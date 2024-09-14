@@ -1,24 +1,68 @@
 [
-    {
-      "num": 1,
-      "name": "10-Day Green Smoothie Cleanse",
-      "author": "JJ Smith",
-      "userRating": 4.7,
-      "reviews": 17350,
-      "price": 8,
-      "year": 2016,
-      "genre": "Non Fiction",
-      "slug": "book1"
-    },
-    {
-      "num": 2,
-      "name": "11/22/63: A Novel",
-      "author": "Stephen King",
-      "userRating": 4.6,
-      "reviews": 2052,
-      "price": 22,
-      "year": 2011,
-      "genre": "Fiction",
-      "slug": "book2"
-    }
+  {
+    "num": 1,
+    "name": "Burk Khalifa",
+    "author": "JJ Smith",
+    "userRating": 4.7,
+    "reviews": 17350,
+    "price": 8,
+    "year": 2016,
+    "genre": "Non Fiction",
+    "slug": "book1"
+  },
+  {
+    "num": 2,
+    "name": "Merdeka 118",
+    "author": "Stephen King",
+    "userRating": 4.6,
+    "reviews": 2052,
+    "price": 22,
+    "year": 2011,
+    "genre": "Fiction",
+    "slug": "book2"
+  },
+  {
+    "num": 3,
+    "name": "Shanghai Tower",
+    "author": "Stephen King",
+    "userRating": 4.6,
+    "reviews": 2052,
+    "price": 22,
+    "year": 2011,
+    "genre": "Fiction",
+    "slug": "book2"
+  },
+  {
+    "num": 4,
+    "name": "Abraj Al Bai",
+    "author": "Stephen King",
+    "userRating": 4.6,
+    "reviews": 2052,
+    "price": 22,
+    "year": 2011,
+    "genre": "Fiction",
+    "slug": "book2"
+  },
+  {
+    "num": 5,
+    "name": "Ping An Finance Centre",
+    "author": "Stephen King",
+    "userRating": 4.6,
+    "reviews": 2052,
+    "price": 22,
+    "year": 2011,
+    "genre": "Fiction",
+    "slug": "book2"
+  },
+  {
+    "num": 6,
+    "name": "Lotte World Tower",
+    "author": "Stephen King",
+    "userRating": 4.6,
+    "reviews": 2052,
+    "price": 22,
+    "year": 2011,
+    "genre": "Fiction",
+    "slug": "book2"
+  }
 ]  

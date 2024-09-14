@@ -1,9 +1,9 @@
 <script>
   export default {
     async asyncData({ $content }) {
-      const books = await $content('arquitectos').fetch()
+      const arquitectos = await $content('arquitectos').fetch()
       return {
-        books
+        arquitectos
       }
     }
   }
@@ -15,8 +15,8 @@
    <h3 style="margin-top: 15px">Información de Arquitectos</h3>
     <p>Esta sección presenta la información sobre los arquitectos</p>
    <ul>
-     <li v-for="book in books" :key="book.slug">
-       <NuxtLink :to="{ name: 'books-slug', params: { slug: book.slug } }">{{book.name}}</NuxtLink>
+     <li v-for="arquitecto in arquitectos" :key="arquitectos.slug">
+       <NuxtLink :to="{ name: 'arquitectos-slug', params: { slug: arquitecto.slug } }">{{arquitecto.name}}</NuxtLink>
      </li>
    </ul>
    <FooterView />
