@@ -11,7 +11,8 @@
   <div class="container">
    <HeaderView />
    <div class="row">
-     <div class="three columns">
+    <div class="three columns">
+        <img class="u-max-full-width" :src="'/images/'+ciudad.image">
      </div>
      <div class="six columns">
        <h4>{{ciudad.name}}</h4>

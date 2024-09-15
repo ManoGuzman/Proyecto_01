@@ -12,6 +12,7 @@
    <HeaderView />
    <div class="row">
      <div class="three columns">
+        <img class="u-max-full-width" :src="'/images/'+arquitecto.image">
      </div>
      <div class="six columns">
        <h4>{{arquitecto.name}}</h4>
