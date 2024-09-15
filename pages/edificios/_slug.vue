@@ -21,7 +21,7 @@
        <b>Ubicacion:</b> {{edificio.ubicacion}}</br>
        <b>Annio Finalizacion:</b> {{edificio.annnio_final}}</br>
        <b>Capacidad:</b> {{edificio.capacidad}}</br> 
-     usos: {{edificio.uso}}
+       <b>Usos:</b> {{edificio.uso}}</br>
 	 </div>
 	 <div class="two columns"></div>
    </div>

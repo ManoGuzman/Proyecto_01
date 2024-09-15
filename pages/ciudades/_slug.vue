@@ -19,7 +19,7 @@
        <b>Poblacion:</b> {{ciudad.poblacion}}</br>
        <b>Clima:</b> {{ciudad.clima}}</br>
        <b>Economia:</b> {{ciudad.economia}}</br>
-      <b>Infraestructura:</b> {{ciudad.infraestructura}}
+       <b>Infraestructura:</b> {{ciudad.infraestructura}}</br>
 	 </div>
 	 <div class="two columns"></div>
    </div>

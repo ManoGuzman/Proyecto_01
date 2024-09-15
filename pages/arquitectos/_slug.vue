@@ -19,7 +19,7 @@
       <b>Nacionalidad:</b> {{arquitecto.nacionalidad}}</br>
       <b>Estilo:</b> {{arquitecto.estilo}}</br>
       <b>Obras Notables:</b> {{arquitecto.obras_notables}}</br>
-      <b>Distincion:</b> {{arquitecto.distincion}}
+      <b>Distincion:</b> {{arquitecto.distincion}}</br>
 	 </div>
 	 <div class="two columns"></div>
    </div>
