@@ -8,7 +8,9 @@
     "annnio_final": "2010",
     "capacidad" : "163 pisos",
     "uso": "Residencias, hotel, restaurantes y observatorio",
-    "slug": "edificio1"
+    "slug": "edificio1",
+    "slug_arqui": "arquitecto1",
+    "slug_ciudad": "ciudad1"
   },
   {
     "num": 2,
@@ -19,7 +21,9 @@
     "annnio_final": "2022",
     "capacidad" : "118 pisos",
     "uso": "Oficinas, hotel, centro comercial y plataforma de observación.",
-    "slug": "edificio2"
+    "slug": "edificio2",
+    "slug_arqui": "arquitecto2",
+    "slug_ciudad": "ciudad2"
   },
   {
     "num": 3,
@@ -30,7 +34,9 @@
     "annnio_final": "2015",
     "capacidad" : "128 pisos",
     "uso": "Oficinas, hotel, tiendas, observatorio y entretenimiento.",
-    "slug": "edificio3"
+    "slug": "edificio3",
+    "slug_arqui": "arquitecto3",
+    "slug_ciudad": "ciudad3"
   },
   {
     "num": 4,
@@ -41,7 +47,9 @@
     "annnio_final": "2012",
     "capacidad" : "115 pisos",
     "uso": "Oficinas, hotel, centro comercial y observatorio.",
-    "slug": "edificio4"
+    "slug": "edificio4",
+    "slug_arqui": "arquitecto4",
+    "slug_ciudad": "ciudad4"
   },
   {
     "num": 5,
@@ -52,7 +60,9 @@
     "annnio_final": "2017",
     "capacidad" : "115 pisos",
     "uso": "Oficinas, hotel, centro comercial y observatorio.",
-    "slug": "edificio5"
+    "slug": "edificio5",
+    "slug_arqui": "arquitecto1",
+    "slug_ciudad": "ciudad5"
   },
   {
     "num": 6,
@@ -63,7 +73,9 @@
     "annnio_final": "2016",
     "capacidad" : "123 pisos",
     "uso": "Oficinas, hotel, apartamentos, centro comercial y observatorio..",
-    "slug": "edificio6"
+    "slug": "edificio6",
+    "slug_arqui": "arquitecto1",
+    "slug_ciudad": "ciudad6"
   },
   {
     "num": 7,
