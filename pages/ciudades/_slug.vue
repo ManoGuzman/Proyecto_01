@@ -18,7 +18,7 @@ export default {
         { word: 'Guangzhou CTF Finance Centre', url: '/edificios/edificio9' },
         { word: 'Central Park Tower', url: '/edificios/edificio10' },
         { word: 'Lakhta Center', url: '/edificios/edificio11' },
-        { word: 'Exchange 106', url: '/edificios/edificio12' }
+        { word: 'The Exchange 106', url: '/edificios/edificio12' }
       ];
 
       let result = [{ text: text, isLink: false }];

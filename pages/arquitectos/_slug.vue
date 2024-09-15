@@ -8,7 +8,6 @@ export default {
     getObrasWithLinks(obras) {
       const notableWorks = [
       { name: 'Burj Khalifa', url: '/edificios/edificio1' },
-      { name: 'Exchange 106', url: '/edificios/edificio2' },
       { name: 'Merdeka 118', url: '/edificios/edificio2' },
       { name: 'Shanghai Tower', url: '/edificios/edificio3' },
       { name: 'Abraj Al Bait', url: '/edificios/edificio4' },
@@ -19,7 +18,7 @@ export default {
       { name: 'Guangzhou CTF Finance Centre', url: '/edificios/edificio9' },
       { name: 'Central Park Tower', url: '/edificios/edificio10' },
       { name: 'Lakhta Center', url: '/edificios/edificio11' },
-      { name: 'Exchange 106', url: '/edificios/edificio12' }
+      { name: 'The Exchange 106', url: '/edificios/edificio12' }
       ];
 
       let result = [{ text: obras, isLink: false }];

@@ -61,7 +61,7 @@
     "capacidad" : "115 pisos",
     "uso": "Oficinas, hotel, centro comercial y observatorio.",
     "slug": "edificio5",
-    "slug_arqui": "arquitecto1",
+    "slug_arqui": "arquitecto5",
     "slug_ciudad": "ciudad5"
   },
   {
@@ -74,7 +74,7 @@
     "capacidad" : "123 pisos",
     "uso": "Oficinas, hotel, apartamentos, centro comercial y observatorio..",
     "slug": "edificio6",
-    "slug_arqui": "arquitecto1",
+    "slug_arqui": "arquitecto5",
     "slug_ciudad": "ciudad6"
   },
   {
@@ -86,7 +86,9 @@
     "annnio_final": "2014",
     "capacidad" : "104 pisos",
     "uso": "Oficinas, restaurantes y observatorio.",
-    "slug": "edificio7"
+    "slug": "edificio7",
+    "slug_arqui": "arquitecto6",
+    "slug_ciudad": "ciudad7"
   },
   {
     "num": 8,
@@ -97,7 +99,9 @@
     "annnio_final": "2019",
     "capacidad" : "98 pisos",
     "uso": "Oficinas, hotel y apartamentos.",
-    "slug": "edificio8"
+    "slug": "edificio8",
+    "slug_arqui": "arquitecto6",
+    "slug_ciudad": "ciudad8"
   },
   {
     "num": 9,
@@ -108,7 +112,9 @@
     "annnio_final": "2016",
     "capacidad" : "111 pisos",
     "uso": "Oficinas, hotel, apartamentos y observatorio.",
-    "slug": "edificio9"
+    "slug": "edificio9",
+    "slug_arqui": "arquitecto5",
+    "slug_ciudad": "ciudad9"
   },
   {
     "num": 10,
@@ -119,7 +125,9 @@
     "annnio_final": "2020",
     "capacidad" : "98 pisos",
     "uso": "Residencias de lujo, hotel y tiendas",
-    "slug": "edificio10"
+    "slug": "edificio10",
+    "slug_arqui": "arquitecto1",
+    "slug_ciudad": "ciudad7"
   },
   {
     "num": 11,
@@ -130,7 +138,9 @@
     "annnio_final": "2019",
     "capacidad" : "87 pisos",
     "uso": "Oficinas, centro científico y cultural, y observatorio.",
-    "slug": "edificio11"
+    "slug": "edificio11",
+    "slug_arqui": "arquitecto7",
+    "slug_ciudad": "ciudad10"
   },
   {
     "num": 12,
@@ -141,6 +151,8 @@
     "annnio_final": "2019",
     "capacidad" : "106 pisos",
     "uso": "Oficinas y centro comercial.",
-    "slug": "edificio12"
+    "slug": "edificio12",
+    "slug_arqui": "arquitecto8",
+    "slug_ciudad": "ciudad2"
   }
 ]  
