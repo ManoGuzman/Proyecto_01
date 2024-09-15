@@ -52,5 +52,41 @@
       "economia": "Principal motor económico de Corea del Sur, con fuerte énfasis en tecnología y finanzas",
       "infraestructura": "Seúl tiene una mezcla de arquitectura moderna y templos históricos, con rascacielos como Lotte World Tower.",
       "slug": "ciudad6"
+    },
+    {
+      "num": 7,
+      "name": "Nueva York, EE.UU",
+      "poblacion": "Aproximadamente 8.5 millones",
+      "clima": "Continental húmedo, con inviernos fríos y veranos cálidos.",
+      "economia": "Es uno de los principales centros financieros, culturales y comerciales del mundo.",
+      "infraestructura": "Conocida por sus icónicos rascacielos, como el Empire State Building, el One World Trade Center y el Central Park Tower.",
+      "slug": "ciudad7"
+    },
+    {
+      "num": 8,
+      "name": "Tianjin, China",
+      "poblacion": "Aproximadamente 13 millones",
+      "clima": "Continental húmedo, con veranos cálidos y húmedos e inviernos fríos.",
+      "economia": "Importante puerto y centro de manufactura de China.",
+      "infraestructura": "Famosa por su desarrollo industrial y su moderno skyline.",
+      "slug": "ciudad8"
+    },
+    {
+      "num": 9,
+      "name": "Guangzhou, China",
+      "poblacion": "Aproximadamente 15.3 millones",
+      "clima": "Subtropical húmedo, con veranos calurosos y lluvias abundantes.",
+      "economia": "Importante centro de comercio y manufactura, especialmente en textiles y electrónicos.",
+      "infraestructura": "Famosa por su rápido crecimiento urbano y sus rascacielos.",
+      "slug": "ciudad9"
+    },
+    {
+      "num": 10,
+      "name": "San Petersburgo, Rusia",
+      "poblacion": "Aproximadamente 5.4 millones",
+      "clima": "Continental húmedo, con inviernos fríos y veranos templados",
+      "economia": "Principal puerto y centro cultural de Rusia.",
+      "infraestructura": "Mezcla de arquitectura histórica y moderna, con edificios como el Lakhta Center.",
+      "slug": "ciudad10"
     }
 ]  
