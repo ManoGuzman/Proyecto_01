@@ -16,9 +16,17 @@
      </div>
      <div class="six columns">
        <h4>{{edificio.name}}</h4>
-       <b>Arquitecto:</b> {{edificio.arquitecto}}</br>
+       <b>Arquitecto:</b>
+       <nuxt-link :to="`/arquitectos/${edificio.slug_arqui}`">
+         {{edificio.arquitecto}}
+       </nuxt-link>
+       </br>
        <b>Altura:</b> {{edificio.altura}}</br>
-       <b>Ubicacion:</b> {{edificio.ubicacion}}</br>
+       <b>Ubicacion:</b>
+       <nuxt-link :to="`/ciudades/${edificio.slug_ciudad}`">
+         {{edificio.ubicacion}}
+       </nuxt-link>
+       </br>
        <b>Annio Finalizacion:</b> {{edificio.annnio_final}}</br>
        <b>Capacidad:</b> {{edificio.capacidad}}</br> 
        <b>Usos:</b> {{edificio.uso}}</br>

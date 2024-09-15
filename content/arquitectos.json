@@ -1,7 +1,7 @@
 [
     {
       "num": 1,
-      "name": "Adrian Smith (Burj Khalifa, Central Park Tower)",
+      "name": "Adrian Smith (Skidmore, Owings & Merrill)",
       "nacionalidad": "Estadounidense",
       "estilo": "Arquitectura moderna y sostenible, especialmente rascacielos",
       "obras_notables": "Burj Khalifa, Jeddah Tower, Central Park Tower.",
@@ -40,7 +40,7 @@
       "name": "Kohn Pedersen Fox (KPF)",
       "nacionalidad": "Estadounidense",
       "estilo": "Arquitectura moderna, especializada en rascacielos y oficinas.",
-      "obras_notables": "Ping An Finance Centre, Lotte World Tower, Shanghai World Financial Center.",
+      "obras_notables": "Ping An Finance Centre, Lotte World Tower, Shanghai World Financial Center, Guangzhou CTF Finance Centre.",
       "distincion": "Reconocidos globalmente por diseñar algunos de los rascacielos más altos del mundo.",
       "slug": "arquitecto5"
     },
@@ -49,7 +49,7 @@
       "name": "Skidmore, Owings & Merrill (SOM)",
       "nacionalidad": "Estadounidense (firma global)",
       "estilo": "Arquitectura moderna y vanguardista, con enfoque en rascacielos y proyectos urbanos.",
-      "obras_notables": "One World Trade Center, Burj Khalifa, John Hancock Center.",
+      "obras_notables": "One World Trade Center, Tianjin CTF Finance Centre, Finance Centre.",
       "distincion": "Firma líder en la creación de rascacielos emblemáticos.",
       "slug": "arquitecto6"
     },
