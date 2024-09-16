@@ -103,7 +103,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Raleway", "Montserrat", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
 
 
@@ -137,9 +137,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a { 
-  color: #1EAEDB; }
+  color: #871edd; }
 a:hover { 
-  color: #0FA0CE; }
+  color: #a257e0; }
 
 
 /* Buttons 
@@ -185,8 +185,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  border-color: #33C3F0;
-  background-color: #33C3F0; }
+  border-color: #a257e0;
+  background-color: #a257e0; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -197,8 +197,8 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-  background-color: #1EAEDB;
-  border-color: #1EAEDB;
+  background-color: #a257e0;
+  border-color: #a257e0;
   color: #FFF; }
 
 
@@ -235,7 +235,7 @@ input[type="text"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #33C3F0;
+  border: 1px solid #871edd;
   outline: 0; }
 label,
 legend {

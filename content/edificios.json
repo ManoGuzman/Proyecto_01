@@ -10,7 +10,8 @@
     "uso": "Residencias, hotel, restaurantes y observatorio",
     "slug": "edificio1",
     "slug_arqui": "arquitecto1",
-    "slug_ciudad": "ciudad1"
+    "slug_ciudad": "ciudad1",
+    "image": "edificios/edificio_1.jpg"
   },
   {
     "num": 2,
@@ -23,7 +24,8 @@
     "uso": "Oficinas, hotel, centro comercial y plataforma de observación.",
     "slug": "edificio2",
     "slug_arqui": "arquitecto2",
-    "slug_ciudad": "ciudad2"
+    "slug_ciudad": "ciudad2",
+    "image": "edificios/edificio_2.jpg"
   },
   {
     "num": 3,
@@ -36,7 +38,8 @@
     "uso": "Oficinas, hotel, tiendas, observatorio y entretenimiento.",
     "slug": "edificio3",
     "slug_arqui": "arquitecto3",
-    "slug_ciudad": "ciudad3"
+    "slug_ciudad": "ciudad3",
+    "image": "edificios/edificio_3.jpg"
   },
   {
     "num": 4,
@@ -49,7 +52,8 @@
     "uso": "Oficinas, hotel, centro comercial y observatorio.",
     "slug": "edificio4",
     "slug_arqui": "arquitecto4",
-    "slug_ciudad": "ciudad4"
+    "slug_ciudad": "ciudad4",
+    "image": "edificios/edificio_4.jpg"
   },
   {
     "num": 5,
@@ -62,7 +66,8 @@
     "uso": "Oficinas, hotel, centro comercial y observatorio.",
     "slug": "edificio5",
     "slug_arqui": "arquitecto5",
-    "slug_ciudad": "ciudad5"
+    "slug_ciudad": "ciudad5",
+    "image": "edificios/edificio_5.jpg"
   },
   {
     "num": 6,
@@ -75,7 +80,8 @@
     "uso": "Oficinas, hotel, apartamentos, centro comercial y observatorio..",
     "slug": "edificio6",
     "slug_arqui": "arquitecto5",
-    "slug_ciudad": "ciudad6"
+    "slug_ciudad": "ciudad6",
+    "image": "edificios/edificio_6.jpg"
   },
   {
     "num": 7,
@@ -88,7 +94,8 @@
     "uso": "Oficinas, restaurantes y observatorio.",
     "slug": "edificio7",
     "slug_arqui": "arquitecto6",
-    "slug_ciudad": "ciudad7"
+    "slug_ciudad": "ciudad7",
+    "image": "edificios/edificio_7.jpg"
   },
   {
     "num": 8,
@@ -101,7 +108,8 @@
     "uso": "Oficinas, hotel y apartamentos.",
     "slug": "edificio8",
     "slug_arqui": "arquitecto6",
-    "slug_ciudad": "ciudad8"
+    "slug_ciudad": "ciudad8",
+    "image": "edificios/edificio_8.jpg"
   },
   {
     "num": 9,
@@ -114,7 +122,8 @@
     "uso": "Oficinas, hotel, apartamentos y observatorio.",
     "slug": "edificio9",
     "slug_arqui": "arquitecto5",
-    "slug_ciudad": "ciudad9"
+    "slug_ciudad": "ciudad9",
+    "image": "edificios/edificio_9.jpg"
   },
   {
     "num": 10,
@@ -127,7 +136,8 @@
     "uso": "Residencias de lujo, hotel y tiendas",
     "slug": "edificio10",
     "slug_arqui": "arquitecto1",
-    "slug_ciudad": "ciudad7"
+    "slug_ciudad": "ciudad7",
+    "image": "edificios/edificio_10.jpg"
   },
   {
     "num": 11,
@@ -140,7 +150,8 @@
     "uso": "Oficinas, centro científico y cultural, y observatorio.",
     "slug": "edificio11",
     "slug_arqui": "arquitecto7",
-    "slug_ciudad": "ciudad10"
+    "slug_ciudad": "ciudad10",
+    "image": "edificios/edificio_11.jpg"
   },
   {
     "num": 12,
@@ -153,6 +164,7 @@
     "uso": "Oficinas y centro comercial.",
     "slug": "edificio12",
     "slug_arqui": "arquitecto8",
-    "slug_ciudad": "ciudad2"
+    "slug_ciudad": "ciudad2",
+    "image": "edificios/edificio_12.jpg"
   }
 ]  
